@@ -1,5 +1,5 @@
 # Motivation-bot
-## Motivation-bot is a Discord bot that sends random motivational quotes in response to a trigger message. The bot can also detect "sad" words in a message and replies with encouraging texts. The bot is cloud-based and is up and running 24x7.
+## Motivation-bot is a Discord bot that sends random motivational quotes in response to a trigger message. The bot can also detect "sad" words in a message and replies with encouraging texts. The bot can be made 24/7 by using ReplIt.
 
 # Prerequisites
 Node.js v12.x or later
