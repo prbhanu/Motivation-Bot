@@ -27,7 +27,7 @@ cd motivation-bot
 **Replace token with the token of your Discord bot, YOUR_GUILD_ID with the ID of your Discord server, and YOUR_CLIENT_ID with the ID of your Discord bot client.**
 
 # Usage
-###To start the bot, run the following command:
+### To start the bot, run the following command:
 
 ```
 node index.js
